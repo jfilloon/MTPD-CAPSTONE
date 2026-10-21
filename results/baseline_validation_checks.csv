@@ -1,0 +1,7 @@
+check,value
+partition_overlap,0
+unassigned_turns,0
+test_prediction_rows,9900
+missing_prediction_values,0
+invalid_single_predictions,0
+invalid_history_predictions,0
