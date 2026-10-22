@@ -1,0 +1,7 @@
+check,value
+test_prediction_rows,9900
+missing_prediction_values,0
+invalid_cialdini_predictions,0
+cialdini_feature_count,24
+excluded_metadata_inputs,0
+models_in_comparison,3
