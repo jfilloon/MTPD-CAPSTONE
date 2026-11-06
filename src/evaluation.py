@@ -63,4 +63,3 @@ def evaluate_predictions(y_true, y_pred, model_name):
         "false_negatives": int(fn),
         "true_positives": int(tp),
     }
-from src.test_evaluation import evaluate_predictions
