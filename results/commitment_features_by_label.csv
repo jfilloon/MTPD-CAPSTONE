@@ -1,0 +1,3 @@
+,commitment_consistency_present,commitment_consistency_count,commitment_consistency_cumulative_present,commitment_consistency_cumulative_count
+Benign,0.09212121212121212,0.10424242424242425,0.3384848484848485,0.6321212121212121
+Malicious,0.23712121212121212,0.2884848484848485,0.4893939393939394,1.4742424242424241

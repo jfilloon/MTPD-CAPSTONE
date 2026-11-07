@@ -1,0 +1,7 @@
+principle,messages_with_cumulative_indicator,corrected_errors,introduced_errors,net_corrections,no_correctness_change
+authority,2135,0,14,-14,2121
+scarcity,549,0,0,0,549
+reciprocity,874,0,0,0,874
+commitment_consistency,4347,1,4,-3,4342
+liking,9171,6,22,-16,9143
+social_proof,149,1,1,0,147

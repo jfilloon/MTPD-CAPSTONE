@@ -1,0 +1,7 @@
+principle,messages_detected,corrected_errors,introduced_errors,net_corrections,no_correctness_change
+authority,300,0,4,-4,296
+scarcity,153,0,0,0,153
+reciprocity,194,0,0,0,194
+commitment_consistency,1869,1,3,-2,1865
+liking,5378,5,12,-7,5361
+social_proof,22,1,1,0,20
