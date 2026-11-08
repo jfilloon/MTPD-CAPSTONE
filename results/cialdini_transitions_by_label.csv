@@ -1,4 +1,4 @@
 cialdini_transition,Benign,Malicious
-Corrected by Cialdini,0,8
-Introduced by Cialdini,1,22
-No correctness change,3299,6570
+Corrected by Cialdini,170,86
+Introduced by Cialdini,160,188
+No correctness change,2970,6326

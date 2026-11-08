@@ -1,4 +1,4 @@
 history_transition,Benign,Malicious
-Corrected by history,77,450
-Introduced by history,0,19
-No correctness change,3223,6131
+Corrected by history,361,759
+Introduced by history,325,138
+No correctness change,2614,5703
